@@ -1,0 +1,14 @@
+{
+  //
+  "editor.formatOnSave": true,
+
+  //
+  "editor.minimap.enabled": false,
+
+  // Auto update tag pairs
+  "editor.linkedEditing": true,
+
+  // Bracket Highlighting:
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active"
+}
