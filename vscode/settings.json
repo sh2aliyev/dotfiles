@@ -1,14 +1,11 @@
 {
-  //
-  "editor.formatOnSave": true,
+  "chat.disableAIFeatures": true,
 
-  //
+  "terminal.integrated.suggest.enabled": false,
+
   "editor.minimap.enabled": false,
-
-  // Auto update tag pairs
   "editor.linkedEditing": true,
-
-  // Bracket Highlighting:
+  "editor.guides.bracketPairs": "active",
   "editor.bracketPairColorization.enabled": true,
-  "editor.guides.bracketPairs": "active"
+  "editor.formatOnSave": true
 }
