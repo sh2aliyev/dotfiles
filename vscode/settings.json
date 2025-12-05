@@ -7,5 +7,7 @@
   "editor.linkedEditing": true,
   "editor.guides.bracketPairs": "active",
   "editor.bracketPairColorization.enabled": true,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+
+  "tailwindCSS.classFunctions": ["cva", "cx"]
 }
