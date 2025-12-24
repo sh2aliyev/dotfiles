@@ -8,6 +8,7 @@
   "editor.guides.bracketPairs": "active",
   "editor.bracketPairColorization.enabled": true,
   "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
 
   "tailwindCSS.classFunctions": ["cva", "cx"]
 }
